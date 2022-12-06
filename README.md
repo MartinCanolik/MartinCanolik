@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Canolik</h1>
-<h3 align="center">A Full Stack Web Developer,I am passionate about technology and growing in the field of programming and for purposes. 📈</h3>
+<h3 align="center">A Full Stack Web Developer, I am passionate about technology and growing in the field of programming and for purposes. 📈</h3>
 <img align="right" alt="coding width="400" src="https://img.etimg.com/thumb/msid-84146083,imgsize-,width-600,height-450,quality-100/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 📫 How to reach me **MARTIN.CANOLIK@GMAIL.COM**
